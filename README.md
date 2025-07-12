@@ -1,2 +1,3 @@
 # Face-attendance---face-recognition
-Using python
+Using machine learning
+
